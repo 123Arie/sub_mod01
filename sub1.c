@@ -2,5 +2,5 @@
 
 // Main
 void sub1(void) {
-  print "Hi There!";
+  print "Hi There, this is submodule_1!";
 }
