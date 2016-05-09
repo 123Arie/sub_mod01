@@ -1,5 +1,5 @@
 // This is the content of a submodule example.
-// Version : v0.1
+// Version : v0.1a
 
 // Main
 void sub1(void) {
